@@ -1,0 +1,47 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 20px;
+}
+
+.countdown {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 30px;
+}
+
+.countdown .time {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: 0 10px;
+}
+
+.countdown .time h3 {
+    font-size: 32px;
+    margin: 5px 0;
+}
+
+.provinces {
+    width: 100%;
+}
+
+.target-province {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.hurriyet {
+    margin-bottom: 20px;
+    background-color: red;
+    padding: 3px;
+}

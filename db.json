@@ -1,0 +1,2954 @@
+[
+    {
+        "Province": "Adana",
+        "Date": "3/11/02",
+        "AKP": "26.8",
+        "CHP": "21.3"
+    },
+    {
+        "Province": "Adıyaman",
+        "Date": "3/11/02",
+        "AKP": "41.4",
+        "CHP": "13.4"
+    },
+    {
+        "Province": "Afyonkarahisar",
+        "Date": "3/11/02",
+        "AKP": "42.6",
+        "CHP": "12.4"
+    },
+    {
+        "Province": "Ağrı",
+        "Date": "3/11/02",
+        "AKP": "17.7",
+        "CHP": "9.6"
+    },
+    {
+        "Province": "Aksaray",
+        "Date": "3/11/02",
+        "AKP": "48.1",
+        "CHP": "11.3"
+    },
+    {
+        "Province": "Amasya",
+        "Date": "3/11/02",
+        "AKP": "39.6",
+        "CHP": "23.1"
+    },
+    {
+        "Province": "Ankara",
+        "Date": "3/11/02",
+        "AKP": "38.1",
+        "CHP": "28.0"
+    },
+    {
+        "Province": "Antalya",
+        "Date": "3/11/02",
+        "AKP": "21.2",
+        "CHP": "30.9"
+    },
+    {
+        "Province": "Ardahan",
+        "Date": "3/11/02",
+        "AKP": "11.8",
+        "CHP": "21.9"
+    },
+    {
+        "Province": "Artvin",
+        "Date": "3/11/02",
+        "AKP": "23.2",
+        "CHP": "25.4"
+    },
+    {
+        "Province": "Aydın",
+        "Date": "3/11/02",
+        "AKP": "18.3",
+        "CHP": "20.7"
+    },
+    {
+        "Province": "Balıkesir",
+        "Date": "3/11/02",
+        "AKP": "33.6",
+        "CHP": "19.7"
+    },
+    {
+        "Province": "Bartın",
+        "Date": "3/11/02",
+        "AKP": "28.6",
+        "CHP": "13.8"
+    },
+    {
+        "Province": "Batman",
+        "Date": "3/11/02",
+        "AKP": "20.6",
+        "CHP": "6.9"
+    },
+    {
+        "Province": "Bayburt",
+        "Date": "3/11/02",
+        "AKP": "26.7",
+        "CHP": "2.5"
+    },
+    {
+        "Province": "Bilecik",
+        "Date": "3/11/02",
+        "AKP": "24.9",
+        "CHP": "18.4"
+    },
+    {
+        "Province": "Bingöl",
+        "Date": "3/11/02",
+        "AKP": "31.7",
+        "CHP": "7.9"
+    },
+    {
+        "Province": "Bitlis",
+        "Date": "3/11/02",
+        "AKP": "17.7",
+        "CHP": "4.5"
+    },
+    {
+        "Province": "Bolu",
+        "Date": "3/11/02",
+        "AKP": "43.1",
+        "CHP": "11.7"
+    },
+    {
+        "Province": "Burdur",
+        "Date": "3/11/02",
+        "AKP": "27.3",
+        "CHP": "19.6"
+    },
+    {
+        "Province": "Bursa",
+        "Date": "3/11/02",
+        "AKP": "41.3",
+        "CHP": "15.3"
+    },
+    {
+        "Province": "Çanakkale",
+        "Date": "3/11/02",
+        "AKP": "25.8",
+        "CHP": "22.9"
+    },
+    {
+        "Province": "Çankırı",
+        "Date": "3/11/02",
+        "AKP": "49.9",
+        "CHP": "6.4"
+    },
+    {
+        "Province": "Çorum",
+        "Date": "3/11/02",
+        "AKP": "48.4",
+        "CHP": "22.2"
+    },
+    {
+        "Province": "Denizli",
+        "Date": "3/11/02",
+        "AKP": "24.2",
+        "CHP": "20.8"
+    },
+    {
+        "Province": "Diyarbakır",
+        "Date": "3/11/02",
+        "AKP": "16.0",
+        "CHP": "5.9"
+    },
+    {
+        "Province": "Düzce",
+        "Date": "3/11/02",
+        "AKP": "52.5",
+        "CHP": "8.6"
+    },
+    {
+        "Province": "Edirne",
+        "Date": "3/11/02",
+        "AKP": "8.7",
+        "CHP": "28.8"
+    },
+    {
+        "Province": "Elazığ",
+        "Date": "3/11/02",
+        "AKP": "42.0",
+        "CHP": "8.9"
+    },
+    {
+        "Province": "Erzincan",
+        "Date": "3/11/02",
+        "AKP": "40.6",
+        "CHP": "27.7"
+    },
+    {
+        "Province": "Erzurum",
+        "Date": "3/11/02",
+        "AKP": "54.7",
+        "CHP": "5.8"
+    },
+    {
+        "Province": "Eskişehir",
+        "Date": "3/11/02",
+        "AKP": "29.6",
+        "CHP": "22.6"
+    },
+    {
+        "Province": "Gaziantep",
+        "Date": "3/11/02",
+        "AKP": "40.0",
+        "CHP": "19.2"
+    },
+    {
+        "Province": "Giresun",
+        "Date": "3/11/02",
+        "AKP": "45.5",
+        "CHP": "14.1"
+    },
+    {
+        "Province": "Gümüşhane",
+        "Date": "3/11/02",
+        "AKP": "42.5",
+        "CHP": "8.8"
+    },
+    {
+        "Province": "Hakkari",
+        "Date": "3/11/02",
+        "AKP": "6.8",
+        "CHP": "8.2"
+    },
+    {
+        "Province": "Hatay",
+        "Date": "3/11/02",
+        "AKP": "29.9",
+        "CHP": "25.8"
+    },
+    {
+        "Province": "Iğdır",
+        "Date": "3/11/02",
+        "AKP": "6.5",
+        "CHP": "14.8"
+    },
+    {
+        "Province": "Isparta",
+        "Date": "3/11/02",
+        "AKP": "41.7",
+        "CHP": "13.2"
+    },
+    {
+        "Province": "İstanbul",
+        "Date": "3/11/02",
+        "AKP": "37.2",
+        "CHP": "24.1"
+    },
+    {
+        "Province": "İzmir",
+        "Date": "3/11/02",
+        "AKP": "17.2",
+        "CHP": "29.1"
+    },
+    {
+        "Province": "Kahramanmaraş",
+        "Date": "3/11/02",
+        "AKP": "53.9",
+        "CHP": "11.2"
+    },
+    {
+        "Province": "Karabük",
+        "Date": "3/11/02",
+        "AKP": "45.2",
+        "CHP": "10.8"
+    },
+    {
+        "Province": "Karaman",
+        "Date": "3/11/02",
+        "AKP": "38.2",
+        "CHP": "18.2"
+    },
+    {
+        "Province": "Kars",
+        "Date": "3/11/02",
+        "AKP": "17.2",
+        "CHP": "16.7"
+    },
+    {
+        "Province": "Kastamonu",
+        "Date": "3/11/02",
+        "AKP": "30.9",
+        "CHP": "11.4"
+    },
+    {
+        "Province": "Kayseri",
+        "Date": "3/11/02",
+        "AKP": "54.3",
+        "CHP": "11.4"
+    },
+    {
+        "Province": "Kırıkkale",
+        "Date": "3/11/02",
+        "AKP": "49.1",
+        "CHP": "12.9"
+    },
+    {
+        "Province": "Kırklareli",
+        "Date": "3/11/02",
+        "AKP": "12.5",
+        "CHP": "32.8"
+    },
+    {
+        "Province": "Kırşehir",
+        "Date": "3/11/02",
+        "AKP": "31.2",
+        "CHP": "21.8"
+    },
+    {
+        "Province": "Kilis",
+        "Date": "3/11/02",
+        "AKP": "36.4",
+        "CHP": "6.5"
+    },
+    {
+        "Province": "Kocaeli",
+        "Date": "3/11/02",
+        "AKP": "42.9",
+        "CHP": "18.7"
+    },
+    {
+        "Province": "Konya",
+        "Date": "3/11/02",
+        "AKP": "54.9",
+        "CHP": "8.6"
+    },
+    {
+        "Province": "Kütahya",
+        "Date": "3/11/02",
+        "AKP": "49.0",
+        "CHP": "7.8"
+    },
+    {
+        "Province": "Malatya",
+        "Date": "3/11/02",
+        "AKP": "50.7",
+        "CHP": "18.1"
+    },
+    {
+        "Province": "Manisa",
+        "Date": "3/11/02",
+        "AKP": "30.1",
+        "CHP": "17.6"
+    },
+    {
+        "Province": "Mardin",
+        "Date": "3/11/02",
+        "AKP": "15.4",
+        "CHP": "11.6"
+    },
+    {
+        "Province": "Mersin",
+        "Date": "3/11/02",
+        "AKP": "18.1",
+        "CHP": "24.7"
+    },
+    {
+        "Province": "Muğla",
+        "Date": "3/11/02",
+        "AKP": "13.2",
+        "CHP": "27.7"
+    },
+    {
+        "Province": "Muş",
+        "Date": "3/11/02",
+        "AKP": "16.9",
+        "CHP": "6.2"
+    },
+    {
+        "Province": "Nevşehir",
+        "Date": "3/11/02",
+        "AKP": "43.6",
+        "CHP": "14.4"
+    },
+    {
+        "Province": "Niğde",
+        "Date": "3/11/02",
+        "AKP": "42.2",
+        "CHP": "18.9"
+    },
+    {
+        "Province": "Ordu",
+        "Date": "3/11/02",
+        "AKP": "41.5",
+        "CHP": "15.8"
+    },
+    {
+        "Province": "Osmaniye",
+        "Date": "3/11/02",
+        "AKP": "31.2",
+        "CHP": "13.8"
+    },
+    {
+        "Province": "Rize",
+        "Date": "3/11/02",
+        "AKP": "44.2",
+        "CHP": "7.4"
+    },
+    {
+        "Province": "Sakarya",
+        "Date": "3/11/02",
+        "AKP": "43.8",
+        "CHP": "6.9"
+    },
+    {
+        "Province": "Samsun",
+        "Date": "3/11/02",
+        "AKP": "44.8",
+        "CHP": "14.8"
+    },
+    {
+        "Province": "Siirt",
+        "Date": "3/11/02",
+        "AKP": "17.6",
+        "CHP": "8.9"
+    },
+    {
+        "Province": "Sinop",
+        "Date": "3/11/02",
+        "AKP": "32.5",
+        "CHP": "18.4"
+    },
+    {
+        "Province": "Sivas",
+        "Date": "3/11/02",
+        "AKP": "45.1",
+        "CHP": "16.0"
+    },
+    {
+        "Province": "Şanlıurfa",
+        "Date": "3/11/02",
+        "AKP": "22.9",
+        "CHP": "9.9"
+    },
+    {
+        "Province": "Şırnak",
+        "Date": "3/11/02",
+        "AKP": "14.0",
+        "CHP": "4.7"
+    },
+    {
+        "Province": "Tekirdağ",
+        "Date": "3/11/02",
+        "AKP": "17.0",
+        "CHP": "27.1"
+    },
+    {
+        "Province": "Tokat",
+        "Date": "3/11/02",
+        "AKP": "44.0",
+        "CHP": "19.7"
+    },
+    {
+        "Province": "Trabzon",
+        "Date": "3/11/02",
+        "AKP": "43.9",
+        "CHP": "14.6"
+    },
+    {
+        "Province": "Tunceli",
+        "Date": "3/11/02",
+        "AKP": "6.7",
+        "CHP": "24.6"
+    },
+    {
+        "Province": "Uşak",
+        "Date": "3/11/02",
+        "AKP": "27.0",
+        "CHP": "24.4"
+    },
+    {
+        "Province": "Van",
+        "Date": "3/11/02",
+        "AKP": "25.9",
+        "CHP": "5.2"
+    },
+    {
+        "Province": "Yalova",
+        "Date": "3/11/02",
+        "AKP": "34.6",
+        "CHP": "18.0"
+    },
+    {
+        "Province": "Yozgat",
+        "Date": "3/11/02",
+        "AKP": "51.1",
+        "CHP": "12.1"
+    },
+    {
+        "Province": "Zonguldak",
+        "Date": "3/11/02",
+        "AKP": "30.5",
+        "CHP": "20.9"
+    },
+    {
+        "Province": "Türkiye",
+        "Date": "3/11/02",
+        "AKP": "34.3",
+        "CHP": "19.4"
+    },
+    {
+        "Province": "Adana",
+        "Date": "22/07/2007",
+        "AKP": "36.9",
+        "CHP": "22.8"
+    },
+    {
+        "Province": "Adıyaman",
+        "Date": "22/07/2007",
+        "AKP": "65.3",
+        "CHP": "14.0"
+    },
+    {
+        "Province": "Afyonkarahisar",
+        "Date": "22/07/2007",
+        "AKP": "53.7",
+        "CHP": "12.3"
+    },
+    {
+        "Province": "Ağrı",
+        "Date": "22/07/2007",
+        "AKP": "63.0",
+        "CHP": "2.6"
+    },
+    {
+        "Province": "Aksaray",
+        "Date": "22/07/2007",
+        "AKP": "63.4",
+        "CHP": "10.4"
+    },
+    {
+        "Province": "Amasya",
+        "Date": "22/07/2007",
+        "AKP": "47.1",
+        "CHP": "25.6"
+    },
+    {
+        "Province": "Ankara",
+        "Date": "22/07/2007",
+        "AKP": "47.5",
+        "CHP": "28.0"
+    },
+    {
+        "Province": "Antalya",
+        "Date": "22/07/2007",
+        "AKP": "34.0",
+        "CHP": "29.1"
+    },
+    {
+        "Province": "Ardahan",
+        "Date": "22/07/2007",
+        "AKP": "40.6",
+        "CHP": "32.3"
+    },
+    {
+        "Province": "Artvin",
+        "Date": "22/07/2007",
+        "AKP": "37.8",
+        "CHP": "28.4"
+    },
+    {
+        "Province": "Aydın",
+        "Date": "22/07/2007",
+        "AKP": "29.2",
+        "CHP": "24.4"
+    },
+    {
+        "Province": "Balıkesir",
+        "Date": "22/07/2007",
+        "AKP": "41.5",
+        "CHP": "24.3"
+    },
+    {
+        "Province": "Bartın",
+        "Date": "22/07/2007",
+        "AKP": "38.6",
+        "CHP": "22.7"
+    },
+    {
+        "Province": "Batman",
+        "Date": "22/07/2007",
+        "AKP": "46.4",
+        "CHP": "3.9"
+    },
+    {
+        "Province": "Bayburt",
+        "Date": "22/07/2007",
+        "AKP": "60.8",
+        "CHP": "2.9"
+    },
+    {
+        "Province": "Bilecik",
+        "Date": "22/07/2007",
+        "AKP": "40.0",
+        "CHP": "23.2"
+    },
+    {
+        "Province": "Bingöl",
+        "Date": "22/07/2007",
+        "AKP": "71.1",
+        "CHP": "4.2"
+    },
+    {
+        "Province": "Bitlis",
+        "Date": "22/07/2007",
+        "AKP": "58.8",
+        "CHP": "8.7"
+    },
+    {
+        "Province": "Bolu",
+        "Date": "22/07/2007",
+        "AKP": "54.9",
+        "CHP": "14.7"
+    },
+    {
+        "Province": "Burdur",
+        "Date": "22/07/2007",
+        "AKP": "41.4",
+        "CHP": "21.3"
+    },
+    {
+        "Province": "Bursa",
+        "Date": "22/07/2007",
+        "AKP": "50.8",
+        "CHP": "18.4"
+    },
+    {
+        "Province": "Çanakkale",
+        "Date": "22/07/2007",
+        "AKP": "35.4",
+        "CHP": "25.7"
+    },
+    {
+        "Province": "Çankırı",
+        "Date": "22/07/2007",
+        "AKP": "60.7",
+        "CHP": "5.4"
+    },
+    {
+        "Province": "Çorum",
+        "Date": "22/07/2007",
+        "AKP": "57.4",
+        "CHP": "22.3"
+    },
+    {
+        "Province": "Denizli",
+        "Date": "22/07/2007",
+        "AKP": "43.0",
+        "CHP": "22.0"
+    },
+    {
+        "Province": "Diyarbakır",
+        "Date": "22/07/2007",
+        "AKP": "40.9",
+        "CHP": "2.0"
+    },
+    {
+        "Province": "Düzce",
+        "Date": "22/07/2007",
+        "AKP": "60.6",
+        "CHP": "10.6"
+    },
+    {
+        "Province": "Edirne",
+        "Date": "22/07/2007",
+        "AKP": "20.7",
+        "CHP": "35.8"
+    },
+    {
+        "Province": "Elazığ",
+        "Date": "22/07/2007",
+        "AKP": "57.2",
+        "CHP": "7.1"
+    },
+    {
+        "Province": "Erzincan",
+        "Date": "22/07/2007",
+        "AKP": "54.3",
+        "CHP": "23.9"
+    },
+    {
+        "Province": "Erzurum",
+        "Date": "22/07/2007",
+        "AKP": "68.3",
+        "CHP": "4.7"
+    },
+    {
+        "Province": "Eskişehir",
+        "Date": "22/07/2007",
+        "AKP": "44.5",
+        "CHP": "25.4"
+    },
+    {
+        "Province": "Gaziantep",
+        "Date": "22/07/2007",
+        "AKP": "59.3",
+        "CHP": "17.6"
+    },
+    {
+        "Province": "Giresun",
+        "Date": "22/07/2007",
+        "AKP": "51.3",
+        "CHP": "16.2"
+    },
+    {
+        "Province": "Gümüşhane",
+        "Date": "22/07/2007",
+        "AKP": "60.6",
+        "CHP": "7.9"
+    },
+    {
+        "Province": "Hakkari",
+        "Date": "22/07/2007",
+        "AKP": "33.5",
+        "CHP": "3.5"
+    },
+    {
+        "Province": "Hatay",
+        "Date": "22/07/2007",
+        "AKP": "40.8",
+        "CHP": "31.2"
+    },
+    {
+        "Province": "Iğdır",
+        "Date": "22/07/2007",
+        "AKP": "28.9",
+        "CHP": "8.4"
+    },
+    {
+        "Province": "Isparta",
+        "Date": "22/07/2007",
+        "AKP": "43.9",
+        "CHP": "13.3"
+    },
+    {
+        "Province": "İstanbul",
+        "Date": "22/07/2007",
+        "AKP": "45.2",
+        "CHP": "27.0"
+    },
+    {
+        "Province": "İzmir",
+        "Date": "22/07/2007",
+        "AKP": "30.5",
+        "CHP": "35.5"
+    },
+    {
+        "Province": "Kahramanmaraş",
+        "Date": "22/07/2007",
+        "AKP": "68.0",
+        "CHP": "9.8"
+    },
+    {
+        "Province": "Karabük",
+        "Date": "22/07/2007",
+        "AKP": "54.7",
+        "CHP": "13.6"
+    },
+    {
+        "Province": "Karaman",
+        "Date": "22/07/2007",
+        "AKP": "51.3",
+        "CHP": "15.2"
+    },
+    {
+        "Province": "Kars",
+        "Date": "22/07/2007",
+        "AKP": "41.2",
+        "CHP": "13.4"
+    },
+    {
+        "Province": "Kastamonu",
+        "Date": "22/07/2007",
+        "AKP": "49.4",
+        "CHP": "14.0"
+    },
+    {
+        "Province": "Kayseri",
+        "Date": "22/07/2007",
+        "AKP": "65.7",
+        "CHP": "9.8"
+    },
+    {
+        "Province": "Kırıkkale",
+        "Date": "22/07/2007",
+        "AKP": "58.0",
+        "CHP": "11.5"
+    },
+    {
+        "Province": "Kırklareli",
+        "Date": "22/07/2007",
+        "AKP": "20.2",
+        "CHP": "40.1"
+    },
+    {
+        "Province": "Kırşehir",
+        "Date": "22/07/2007",
+        "AKP": "44.3",
+        "CHP": "15.4"
+    },
+    {
+        "Province": "Kilis",
+        "Date": "22/07/2007",
+        "AKP": "56.2",
+        "CHP": "10.8"
+    },
+    {
+        "Province": "Kocaeli",
+        "Date": "22/07/2007",
+        "AKP": "49.3",
+        "CHP": "19.4"
+    },
+    {
+        "Province": "Konya",
+        "Date": "22/07/2007",
+        "AKP": "65.3",
+        "CHP": "8.2"
+    },
+    {
+        "Province": "Kütahya",
+        "Date": "22/07/2007",
+        "AKP": "62.4",
+        "CHP": "8.7"
+    },
+    {
+        "Province": "Malatya",
+        "Date": "22/07/2007",
+        "AKP": "66.7",
+        "CHP": "18.9"
+    },
+    {
+        "Province": "Manisa",
+        "Date": "22/07/2007",
+        "AKP": "40.9",
+        "CHP": "19.3"
+    },
+    {
+        "Province": "Mardin",
+        "Date": "22/07/2007",
+        "AKP": "44.1",
+        "CHP": "6.9"
+    },
+    {
+        "Province": "Mersin",
+        "Date": "22/07/2007",
+        "AKP": "27.2",
+        "CHP": "24.7"
+    },
+    {
+        "Province": "Muğla",
+        "Date": "22/07/2007",
+        "AKP": "26.3",
+        "CHP": "34.5"
+    },
+    {
+        "Province": "Muş",
+        "Date": "22/07/2007",
+        "AKP": "38.6",
+        "CHP": "3.1"
+    },
+    {
+        "Province": "Nevşehir",
+        "Date": "22/07/2007",
+        "AKP": "55.7",
+        "CHP": "15.8"
+    },
+    {
+        "Province": "Niğde",
+        "Date": "22/07/2007",
+        "AKP": "48.6",
+        "CHP": "15.9"
+    },
+    {
+        "Province": "Ordu",
+        "Date": "22/07/2007",
+        "AKP": "55.8",
+        "CHP": "15.9"
+    },
+    {
+        "Province": "Osmaniye",
+        "Date": "22/07/2007",
+        "AKP": "38.7",
+        "CHP": "9.7"
+    },
+    {
+        "Province": "Rize",
+        "Date": "22/07/2007",
+        "AKP": "53.7",
+        "CHP": "7.6"
+    },
+    {
+        "Province": "Sakarya",
+        "Date": "22/07/2007",
+        "AKP": "53.1",
+        "CHP": "9.2"
+    },
+    {
+        "Province": "Samsun",
+        "Date": "22/07/2007",
+        "AKP": "57.9",
+        "CHP": "17.1"
+    },
+    {
+        "Province": "Siirt",
+        "Date": "22/07/2007",
+        "AKP": "48.8",
+        "CHP": "3.5"
+    },
+    {
+        "Province": "Sinop",
+        "Date": "22/07/2007",
+        "AKP": "44.0",
+        "CHP": "24.4"
+    },
+    {
+        "Province": "Sivas",
+        "Date": "22/07/2007",
+        "AKP": "55.5",
+        "CHP": "15.9"
+    },
+    {
+        "Province": "Şanlıurfa",
+        "Date": "22/07/2007",
+        "AKP": "59.8",
+        "CHP": "4.8"
+    },
+    {
+        "Province": "Şırnak",
+        "Date": "22/07/2007",
+        "AKP": "26.9",
+        "CHP": "6.7"
+    },
+    {
+        "Province": "Tekirdağ",
+        "Date": "22/07/2007",
+        "AKP": "29.3",
+        "CHP": "34.4"
+    },
+    {
+        "Province": "Tokat",
+        "Date": "22/07/2007",
+        "AKP": "52.0",
+        "CHP": "19.0"
+    },
+    {
+        "Province": "Trabzon",
+        "Date": "22/07/2007",
+        "AKP": "56.8",
+        "CHP": "13.7"
+    },
+    {
+        "Province": "Tunceli",
+        "Date": "22/07/2007",
+        "AKP": "12.3",
+        "CHP": "16.6"
+    },
+    {
+        "Province": "Uşak",
+        "Date": "22/07/2007",
+        "AKP": "43.3",
+        "CHP": "22.5"
+    },
+    {
+        "Province": "Van",
+        "Date": "22/07/2007",
+        "AKP": "53.2",
+        "CHP": "4.1"
+    },
+    {
+        "Province": "Yalova",
+        "Date": "22/07/2007",
+        "AKP": "40.8",
+        "CHP": "24.4"
+    },
+    {
+        "Province": "Yozgat",
+        "Date": "22/07/2007",
+        "AKP": "62.4",
+        "CHP": "12.2"
+    },
+    {
+        "Province": "Zonguldak",
+        "Date": "22/07/2007",
+        "AKP": "41.0",
+        "CHP": "24.4"
+    },
+    {
+        "Province": "Türkiye",
+        "Date": "22/07/2007",
+        "AKP": "46.6",
+        "CHP": "20.9"
+    },
+    {
+        "Province": "Adana",
+        "Date": "12/6/11",
+        "AKP": "37.4",
+        "CHP": "30.9"
+    },
+    {
+        "Province": "Adıyaman",
+        "Date": "12/6/11",
+        "AKP": "67.3",
+        "CHP": "16.6"
+    },
+    {
+        "Province": "Afyonkarahisar",
+        "Date": "12/6/11",
+        "AKP": "60.4",
+        "CHP": "16.5"
+    },
+    {
+        "Province": "Ağrı",
+        "Date": "12/6/11",
+        "AKP": "47.6",
+        "CHP": "2.2"
+    },
+    {
+        "Province": "Aksaray",
+        "Date": "12/6/11",
+        "AKP": "66.1",
+        "CHP": "11.7"
+    },
+    {
+        "Province": "Amasya",
+        "Date": "12/6/11",
+        "AKP": "52.2",
+        "CHP": "27.9"
+    },
+    {
+        "Province": "Ankara",
+        "Date": "12/6/11",
+        "AKP": "49.2",
+        "CHP": "31.3"
+    },
+    {
+        "Province": "Antalya",
+        "Date": "12/6/11",
+        "AKP": "39.3",
+        "CHP": "33.2"
+    },
+    {
+        "Province": "Ardahan",
+        "Date": "12/6/11",
+        "AKP": "40.2",
+        "CHP": "30.8"
+    },
+    {
+        "Province": "Artvin",
+        "Date": "12/6/11",
+        "AKP": "46.4",
+        "CHP": "35.4"
+    },
+    {
+        "Province": "Aydın",
+        "Date": "12/6/11",
+        "AKP": "35.5",
+        "CHP": "38.1"
+    },
+    {
+        "Province": "Balıkesir",
+        "Date": "12/6/11",
+        "AKP": "46.5",
+        "CHP": "33.8"
+    },
+    {
+        "Province": "Bartın",
+        "Date": "12/6/11",
+        "AKP": "48.2",
+        "CHP": "28.8"
+    },
+    {
+        "Province": "Batman",
+        "Date": "12/6/11",
+        "AKP": "37.1",
+        "CHP": "6.7"
+    },
+    {
+        "Province": "Bayburt",
+        "Date": "12/6/11",
+        "AKP": "63.4",
+        "CHP": "3.9"
+    },
+    {
+        "Province": "Bilecik",
+        "Date": "12/6/11",
+        "AKP": "42.6",
+        "CHP": "25.4"
+    },
+    {
+        "Province": "Bingöl",
+        "Date": "12/6/11",
+        "AKP": "67.1",
+        "CHP": "3.1"
+    },
+    {
+        "Province": "Bitlis",
+        "Date": "12/6/11",
+        "AKP": "50.7",
+        "CHP": "1.7"
+    },
+    {
+        "Province": "Bolu",
+        "Date": "12/6/11",
+        "AKP": "58.5",
+        "CHP": "20.1"
+    },
+    {
+        "Province": "Burdur",
+        "Date": "12/6/11",
+        "AKP": "49.0",
+        "CHP": "25.4"
+    },
+    {
+        "Province": "Bursa",
+        "Date": "12/6/11",
+        "AKP": "53.0",
+        "CHP": "25.0"
+    },
+    {
+        "Province": "Çanakkale",
+        "Date": "12/6/11",
+        "AKP": "41.6",
+        "CHP": "39.5"
+    },
+    {
+        "Province": "Çankırı",
+        "Date": "12/6/11",
+        "AKP": "65.6",
+        "CHP": "6.1"
+    },
+    {
+        "Province": "Çorum",
+        "Date": "12/6/11",
+        "AKP": "61.2",
+        "CHP": "24.0"
+    },
+    {
+        "Province": "Denizli",
+        "Date": "12/6/11",
+        "AKP": "46.6",
+        "CHP": "31.2"
+    },
+    {
+        "Province": "Diyarbakır",
+        "Date": "12/6/11",
+        "AKP": "32.2",
+        "CHP": "2.3"
+    },
+    {
+        "Province": "Düzce",
+        "Date": "12/6/11",
+        "AKP": "66.0",
+        "CHP": "12.4"
+    },
+    {
+        "Province": "Edirne",
+        "Date": "12/6/11",
+        "AKP": "30.4",
+        "CHP": "51.7"
+    },
+    {
+        "Province": "Elazığ",
+        "Date": "12/6/11",
+        "AKP": "67.4",
+        "CHP": "13.2"
+    },
+    {
+        "Province": "Erzincan",
+        "Date": "12/6/11",
+        "AKP": "57.1",
+        "CHP": "30.3"
+    },
+    {
+        "Province": "Erzurum",
+        "Date": "12/6/11",
+        "AKP": "69.2",
+        "CHP": "4.8"
+    },
+    {
+        "Province": "Eskişehir",
+        "Date": "12/6/11",
+        "AKP": "44.1",
+        "CHP": "35.5"
+    },
+    {
+        "Province": "Gaziantep",
+        "Date": "12/6/11",
+        "AKP": "61.7",
+        "CHP": "19.3"
+    },
+    {
+        "Province": "Giresun",
+        "Date": "12/6/11",
+        "AKP": "59.4",
+        "CHP": "23.7"
+    },
+    {
+        "Province": "Gümüşhane",
+        "Date": "12/6/11",
+        "AKP": "65.0",
+        "CHP": "7.8"
+    },
+    {
+        "Province": "Hakkari",
+        "Date": "12/6/11",
+        "AKP": "16.5",
+        "CHP": "0.9"
+    },
+    {
+        "Province": "Hatay",
+        "Date": "12/6/11",
+        "AKP": "44.4",
+        "CHP": "38.5"
+    },
+    {
+        "Province": "Iğdır",
+        "Date": "12/6/11",
+        "AKP": "28.3",
+        "CHP": "1.7"
+    },
+    {
+        "Province": "Isparta",
+        "Date": "12/6/11",
+        "AKP": "52.9",
+        "CHP": "21.7"
+    },
+    {
+        "Province": "İstanbul",
+        "Date": "12/6/11",
+        "AKP": "49.4",
+        "CHP": "31.3"
+    },
+    {
+        "Province": "İzmir",
+        "Date": "12/6/11",
+        "AKP": "36.8",
+        "CHP": "43.7"
+    },
+    {
+        "Province": "Kahramanmaraş",
+        "Date": "12/6/11",
+        "AKP": "69.6",
+        "CHP": "11.5"
+    },
+    {
+        "Province": "Karabük",
+        "Date": "12/6/11",
+        "AKP": "57.9",
+        "CHP": "19.0"
+    },
+    {
+        "Province": "Karaman",
+        "Date": "12/6/11",
+        "AKP": "57.3",
+        "CHP": "18.9"
+    },
+    {
+        "Province": "Kars",
+        "Date": "12/6/11",
+        "AKP": "42.6",
+        "CHP": "16.7"
+    },
+    {
+        "Province": "Kastamonu",
+        "Date": "12/6/11",
+        "AKP": "55.8",
+        "CHP": "14.7"
+    },
+    {
+        "Province": "Kayseri",
+        "Date": "12/6/11",
+        "AKP": "64.9",
+        "CHP": "12.1"
+    },
+    {
+        "Province": "Kırıkkale",
+        "Date": "12/6/11",
+        "AKP": "62.1",
+        "CHP": "15.2"
+    },
+    {
+        "Province": "Kırklareli",
+        "Date": "12/6/11",
+        "AKP": "27.4",
+        "CHP": "52.5"
+    },
+    {
+        "Province": "Kırşehir",
+        "Date": "12/6/11",
+        "AKP": "50.2",
+        "CHP": "22.6"
+    },
+    {
+        "Province": "Kilis",
+        "Date": "12/6/11",
+        "AKP": "59.5",
+        "CHP": "15.2"
+    },
+    {
+        "Province": "Kocaeli",
+        "Date": "12/6/11",
+        "AKP": "52.7",
+        "CHP": "24.6"
+    },
+    {
+        "Province": "Konya",
+        "Date": "12/6/11",
+        "AKP": "69.6",
+        "CHP": "10.2"
+    },
+    {
+        "Province": "Kütahya",
+        "Date": "12/6/11",
+        "AKP": "64.6",
+        "CHP": "12.4"
+    },
+    {
+        "Province": "Malatya",
+        "Date": "12/6/11",
+        "AKP": "68.0",
+        "CHP": "19.8"
+    },
+    {
+        "Province": "Manisa",
+        "Date": "12/6/11",
+        "AKP": "47.0",
+        "CHP": "28.8"
+    },
+    {
+        "Province": "Mardin",
+        "Date": "12/6/11",
+        "AKP": "32.2",
+        "CHP": "3.7"
+    },
+    {
+        "Province": "Mersin",
+        "Date": "12/6/11",
+        "AKP": "32.0",
+        "CHP": "32.0"
+    },
+    {
+        "Province": "Muğla",
+        "Date": "12/6/11",
+        "AKP": "32.7",
+        "CHP": "45.6"
+    },
+    {
+        "Province": "Muş",
+        "Date": "12/6/11",
+        "AKP": "42.8",
+        "CHP": "4.2"
+    },
+    {
+        "Province": "Nevşehir",
+        "Date": "12/6/11",
+        "AKP": "60.2",
+        "CHP": "16.3"
+    },
+    {
+        "Province": "Niğde",
+        "Date": "12/6/11",
+        "AKP": "54.3",
+        "CHP": "21.5"
+    },
+    {
+        "Province": "Ordu",
+        "Date": "12/6/11",
+        "AKP": "60.2",
+        "CHP": "22.6"
+    },
+    {
+        "Province": "Osmaniye",
+        "Date": "12/6/11",
+        "AKP": "43.1",
+        "CHP": "11.5"
+    },
+    {
+        "Province": "Rize",
+        "Date": "12/6/11",
+        "AKP": "68.9",
+        "CHP": "17.1"
+    },
+    {
+        "Province": "Sakarya",
+        "Date": "12/6/11",
+        "AKP": "61.6",
+        "CHP": "16.2"
+    },
+    {
+        "Province": "Samsun",
+        "Date": "12/6/11",
+        "AKP": "61.5",
+        "CHP": "21.7"
+    },
+    {
+        "Province": "Siirt",
+        "Date": "12/6/11",
+        "AKP": "48.0",
+        "CHP": "2.9"
+    },
+    {
+        "Province": "Sinop",
+        "Date": "12/6/11",
+        "AKP": "54.9",
+        "CHP": "31.0"
+    },
+    {
+        "Province": "Sivas",
+        "Date": "12/6/11",
+        "AKP": "63.3",
+        "CHP": "15.3"
+    },
+    {
+        "Province": "Şanlıurfa",
+        "Date": "12/6/11",
+        "AKP": "63.5",
+        "CHP": "3.2"
+    },
+    {
+        "Province": "Şırnak",
+        "Date": "12/6/11",
+        "AKP": "20.6",
+        "CHP": "3.0"
+    },
+    {
+        "Province": "Tekirdağ",
+        "Date": "12/6/11",
+        "AKP": "35.9",
+        "CHP": "44.4"
+    },
+    {
+        "Province": "Tokat",
+        "Date": "12/6/11",
+        "AKP": "55.9",
+        "CHP": "23.5"
+    },
+    {
+        "Province": "Trabzon",
+        "Date": "12/6/11",
+        "AKP": "58.7",
+        "CHP": "18.3"
+    },
+    {
+        "Province": "Tunceli",
+        "Date": "12/6/11",
+        "AKP": "15.8",
+        "CHP": "57.5"
+    },
+    {
+        "Province": "Uşak",
+        "Date": "12/6/11",
+        "AKP": "49.8",
+        "CHP": "29.8"
+    },
+    {
+        "Province": "Van",
+        "Date": "12/6/11",
+        "AKP": "40.3",
+        "CHP": "3.8"
+    },
+    {
+        "Province": "Yalova",
+        "Date": "12/6/11",
+        "AKP": "47.2",
+        "CHP": "32.7"
+    },
+    {
+        "Province": "Yozgat",
+        "Date": "12/6/11",
+        "AKP": "66.4",
+        "CHP": "11.0"
+    },
+    {
+        "Province": "Zonguldak",
+        "Date": "12/6/11",
+        "AKP": "47.2",
+        "CHP": "37.5"
+    },
+    {
+        "Province": "Türkiye",
+        "Date": "12/6/11",
+        "AKP": "49.8",
+        "CHP": "26.0"
+    },
+    {
+        "Province": "Adana",
+        "Date": "7/6/15",
+        "AKP": "30.4",
+        "CHP": "28.6"
+    },
+    {
+        "Province": "Adıyaman",
+        "Date": "7/6/15",
+        "AKP": "58.0",
+        "CHP": "11.5"
+    },
+    {
+        "Province": "Afyonkarahisar",
+        "Date": "7/6/15",
+        "AKP": "52.3",
+        "CHP": "16.8"
+    },
+    {
+        "Province": "Ağrı",
+        "Date": "7/6/15",
+        "AKP": "16.6",
+        "CHP": "1.4"
+    },
+    {
+        "Province": "Aksaray",
+        "Date": "7/6/15",
+        "AKP": "58.3",
+        "CHP": "6.9"
+    },
+    {
+        "Province": "Amasya",
+        "Date": "7/6/15",
+        "AKP": "45.9",
+        "CHP": "26.0"
+    },
+    {
+        "Province": "Ankara",
+        "Date": "7/6/15",
+        "AKP": "41.4",
+        "CHP": "29.2"
+    },
+    {
+        "Province": "Antalya",
+        "Date": "7/6/15",
+        "AKP": "35.3",
+        "CHP": "32.5"
+    },
+    {
+        "Province": "Ardahan",
+        "Date": "7/6/15",
+        "AKP": "26.8",
+        "CHP": "22.1"
+    },
+    {
+        "Province": "Artvin",
+        "Date": "7/6/15",
+        "AKP": "39.1",
+        "CHP": "30.7"
+    },
+    {
+        "Province": "Aydın",
+        "Date": "7/6/15",
+        "AKP": "29.7",
+        "CHP": "40.1"
+    },
+    {
+        "Province": "Balıkesir",
+        "Date": "7/6/15",
+        "AKP": "39.1",
+        "CHP": "33.7"
+    },
+    {
+        "Province": "Bartın",
+        "Date": "7/6/15",
+        "AKP": "41.6",
+        "CHP": "30.2"
+    },
+    {
+        "Province": "Batman",
+        "Date": "7/6/15",
+        "AKP": "18.9",
+        "CHP": "1.2"
+    },
+    {
+        "Province": "Bayburt",
+        "Date": "7/6/15",
+        "AKP": "60.0",
+        "CHP": "2.8"
+    },
+    {
+        "Province": "Bilecik",
+        "Date": "7/6/15",
+        "AKP": "37.6",
+        "CHP": "29.2"
+    },
+    {
+        "Province": "Bingöl",
+        "Date": "7/6/15",
+        "AKP": "47.0",
+        "CHP": "1.6"
+    },
+    {
+        "Province": "Bitlis",
+        "Date": "7/6/15",
+        "AKP": "31.4",
+        "CHP": "1.7"
+    },
+    {
+        "Province": "Bolu",
+        "Date": "7/6/15",
+        "AKP": "52.0",
+        "CHP": "24.4"
+    },
+    {
+        "Province": "Burdur",
+        "Date": "7/6/15",
+        "AKP": "43.1",
+        "CHP": "27.1"
+    },
+    {
+        "Province": "Bursa",
+        "Date": "7/6/15",
+        "AKP": "44.0",
+        "CHP": "27.7"
+    },
+    {
+        "Province": "Çanakkale",
+        "Date": "7/6/15",
+        "AKP": "34.6",
+        "CHP": "39.0"
+    },
+    {
+        "Province": "Çankırı",
+        "Date": "7/6/15",
+        "AKP": "59.2",
+        "CHP": "6.9"
+    },
+    {
+        "Province": "Çorum",
+        "Date": "7/6/15",
+        "AKP": "54.3",
+        "CHP": "22.3"
+    },
+    {
+        "Province": "Denizli",
+        "Date": "7/6/15",
+        "AKP": "39.8",
+        "CHP": "34.8"
+    },
+    {
+        "Province": "Diyarbakır",
+        "Date": "7/6/15",
+        "AKP": "14.8",
+        "CHP": "1.3"
+    },
+    {
+        "Province": "Düzce",
+        "Date": "7/6/15",
+        "AKP": "59.2",
+        "CHP": "16.1"
+    },
+    {
+        "Province": "Edirne",
+        "Date": "7/6/15",
+        "AKP": "24.8",
+        "CHP": "52.9"
+    },
+    {
+        "Province": "Elazığ",
+        "Date": "7/6/15",
+        "AKP": "52.9",
+        "CHP": "6.9"
+    },
+    {
+        "Province": "Erzincan",
+        "Date": "7/6/15",
+        "AKP": "49.2",
+        "CHP": "25.3"
+    },
+    {
+        "Province": "Erzurum",
+        "Date": "7/6/15",
+        "AKP": "52.0",
+        "CHP": "3.1"
+    },
+    {
+        "Province": "Eskişehir",
+        "Date": "7/6/15",
+        "AKP": "36.2",
+        "CHP": "38.8"
+    },
+    {
+        "Province": "Gaziantep",
+        "Date": "7/6/15",
+        "AKP": "47.0",
+        "CHP": "16.4"
+    },
+    {
+        "Province": "Giresun",
+        "Date": "7/6/15",
+        "AKP": "53.5",
+        "CHP": "21.9"
+    },
+    {
+        "Province": "Gümüşhane",
+        "Date": "7/6/15",
+        "AKP": "56.8",
+        "CHP": "5.4"
+    },
+    {
+        "Province": "Hakkari",
+        "Date": "7/6/15",
+        "AKP": "9.7",
+        "CHP": "1.4"
+    },
+    {
+        "Province": "Hatay",
+        "Date": "7/6/15",
+        "AKP": "38.1",
+        "CHP": "35.9"
+    },
+    {
+        "Province": "Iğdır",
+        "Date": "7/6/15",
+        "AKP": "11.7",
+        "CHP": "3.9"
+    },
+    {
+        "Province": "Isparta",
+        "Date": "7/6/15",
+        "AKP": "44.2",
+        "CHP": "22.2"
+    },
+    {
+        "Province": "İstanbul",
+        "Date": "7/6/15",
+        "AKP": "41.1",
+        "CHP": "29.1"
+    },
+    {
+        "Province": "İzmir",
+        "Date": "7/6/15",
+        "AKP": "26.8",
+        "CHP": "44.8"
+    },
+    {
+        "Province": "Kahramanmaraş",
+        "Date": "7/6/15",
+        "AKP": "60.8",
+        "CHP": "8.7"
+    },
+    {
+        "Province": "Karabük",
+        "Date": "7/6/15",
+        "AKP": "48.0",
+        "CHP": "17.2"
+    },
+    {
+        "Province": "Karaman",
+        "Date": "7/6/15",
+        "AKP": "55.4",
+        "CHP": "15.6"
+    },
+    {
+        "Province": "Kars",
+        "Date": "7/6/15",
+        "AKP": "27.2",
+        "CHP": "12.1"
+    },
+    {
+        "Province": "Kastamonu",
+        "Date": "7/6/15",
+        "AKP": "48.7",
+        "CHP": "18.6"
+    },
+    {
+        "Province": "Kayseri",
+        "Date": "7/6/15",
+        "AKP": "52.4",
+        "CHP": "12.5"
+    },
+    {
+        "Province": "Kırıkkale",
+        "Date": "7/6/15",
+        "AKP": "50.6",
+        "CHP": "15.4"
+    },
+    {
+        "Province": "Kırklareli",
+        "Date": "7/6/15",
+        "AKP": "23.7",
+        "CHP": "49.4"
+    },
+    {
+        "Province": "Kırşehir",
+        "Date": "7/6/15",
+        "AKP": "39.8",
+        "CHP": "19.3"
+    },
+    {
+        "Province": "Kilis",
+        "Date": "7/6/15",
+        "AKP": "49.2",
+        "CHP": "7.9"
+    },
+    {
+        "Province": "Kocaeli",
+        "Date": "7/6/15",
+        "AKP": "46.4",
+        "CHP": "24.2"
+    },
+    {
+        "Province": "Konya",
+        "Date": "7/6/15",
+        "AKP": "65.1",
+        "CHP": "9.9"
+    },
+    {
+        "Province": "Kütahya",
+        "Date": "7/6/15",
+        "AKP": "54.5",
+        "CHP": "12.0"
+    },
+    {
+        "Province": "Malatya",
+        "Date": "7/6/15",
+        "AKP": "58.4",
+        "CHP": "16.6"
+    },
+    {
+        "Province": "Manisa",
+        "Date": "7/6/15",
+        "AKP": "37.1",
+        "CHP": "29.0"
+    },
+    {
+        "Province": "Mardin",
+        "Date": "7/6/15",
+        "AKP": "19.9",
+        "CHP": "1.4"
+    },
+    {
+        "Province": "Mersin",
+        "Date": "7/6/15",
+        "AKP": "26.4",
+        "CHP": "28.7"
+    },
+    {
+        "Province": "Muğla",
+        "Date": "7/6/15",
+        "AKP": "26.9",
+        "CHP": "45.1"
+    },
+    {
+        "Province": "Muş",
+        "Date": "7/6/15",
+        "AKP": "24.9",
+        "CHP": "1.5"
+    },
+    {
+        "Province": "Nevşehir",
+        "Date": "7/6/15",
+        "AKP": "52.4",
+        "CHP": "15.0"
+    },
+    {
+        "Province": "Niğde",
+        "Date": "7/6/15",
+        "AKP": "47.9",
+        "CHP": "21.3"
+    },
+    {
+        "Province": "Ordu",
+        "Date": "7/6/15",
+        "AKP": "52.9",
+        "CHP": "28.2"
+    },
+    {
+        "Province": "Osmaniye",
+        "Date": "7/6/15",
+        "AKP": "39.1",
+        "CHP": "13.4"
+    },
+    {
+        "Province": "Rize",
+        "Date": "7/6/15",
+        "AKP": "66.4",
+        "CHP": "18.9"
+    },
+    {
+        "Province": "Sakarya",
+        "Date": "7/6/15",
+        "AKP": "56.5",
+        "CHP": "15.9"
+    },
+    {
+        "Province": "Samsun",
+        "Date": "7/6/15",
+        "AKP": "52.9",
+        "CHP": "23.0"
+    },
+    {
+        "Province": "Siirt",
+        "Date": "7/6/15",
+        "AKP": "28.7",
+        "CHP": "1.6"
+    },
+    {
+        "Province": "Sinop",
+        "Date": "7/6/15",
+        "AKP": "47.5",
+        "CHP": "28.4"
+    },
+    {
+        "Province": "Sivas",
+        "Date": "7/6/15",
+        "AKP": "57.5",
+        "CHP": "15.0"
+    },
+    {
+        "Province": "Şanlıurfa",
+        "Date": "7/6/15",
+        "AKP": "46.8",
+        "CHP": "4.4"
+    },
+    {
+        "Province": "Şırnak",
+        "Date": "7/6/15",
+        "AKP": "9.7",
+        "CHP": "1.3"
+    },
+    {
+        "Province": "Tekirdağ",
+        "Date": "7/6/15",
+        "AKP": "31.6",
+        "CHP": "43.9"
+    },
+    {
+        "Province": "Tokat",
+        "Date": "7/6/15",
+        "AKP": "51.6",
+        "CHP": "20.8"
+    },
+    {
+        "Province": "Trabzon",
+        "Date": "7/6/15",
+        "AKP": "55.3",
+        "CHP": "17.0"
+    },
+    {
+        "Province": "Tunceli",
+        "Date": "7/6/15",
+        "AKP": "11.5",
+        "CHP": "20.5"
+    },
+    {
+        "Province": "Uşak",
+        "Date": "7/6/15",
+        "AKP": "38.3",
+        "CHP": "28.1"
+    },
+    {
+        "Province": "Van",
+        "Date": "7/6/15",
+        "AKP": "20.1",
+        "CHP": "1.4"
+    },
+    {
+        "Province": "Yalova",
+        "Date": "7/6/15",
+        "AKP": "39.7",
+        "CHP": "28.8"
+    },
+    {
+        "Province": "Yozgat",
+        "Date": "7/6/15",
+        "AKP": "58.1",
+        "CHP": "9.2"
+    },
+    {
+        "Province": "Zonguldak",
+        "Date": "7/6/15",
+        "AKP": "38.3",
+        "CHP": "38.5"
+    },
+    {
+        "Province": "Türkiye",
+        "Date": "7/6/15",
+        "AKP": "40.9",
+        "CHP": "25.0"
+    },
+    {
+        "Province": "Adana",
+        "Date": "1/11/15",
+        "AKP": "37.3",
+        "CHP": "29.4"
+    },
+    {
+        "Province": "Adıyaman",
+        "Date": "1/11/15",
+        "AKP": "69.1",
+        "CHP": "11.4"
+    },
+    {
+        "Province": "Afyonkarahisar",
+        "Date": "1/11/15",
+        "AKP": "63.2",
+        "CHP": "16.3"
+    },
+    {
+        "Province": "Ağrı",
+        "Date": "1/11/15",
+        "AKP": "27.7",
+        "CHP": "1.7"
+    },
+    {
+        "Province": "Aksaray",
+        "Date": "1/11/15",
+        "AKP": "71.2",
+        "CHP": "7.6"
+    },
+    {
+        "Province": "Amasya",
+        "Date": "1/11/15",
+        "AKP": "51.7",
+        "CHP": "24.3"
+    },
+    {
+        "Province": "Ankara",
+        "Date": "1/11/15",
+        "AKP": "49.1",
+        "CHP": "30.4"
+    },
+    {
+        "Province": "Antalya",
+        "Date": "1/11/15",
+        "AKP": "41.7",
+        "CHP": "32.8"
+    },
+    {
+        "Province": "Ardahan",
+        "Date": "1/11/15",
+        "AKP": "36.7",
+        "CHP": "28.7"
+    },
+    {
+        "Province": "Artvin",
+        "Date": "1/11/15",
+        "AKP": "45.5",
+        "CHP": "34.9"
+    },
+    {
+        "Province": "Aydın",
+        "Date": "1/11/15",
+        "AKP": "34.4",
+        "CHP": "40.2"
+    },
+    {
+        "Province": "Balıkesir",
+        "Date": "1/11/15",
+        "AKP": "45.8",
+        "CHP": "34.2"
+    },
+    {
+        "Province": "Bartın",
+        "Date": "1/11/15",
+        "AKP": "53.4",
+        "CHP": "29.8"
+    },
+    {
+        "Province": "Batman",
+        "Date": "1/11/15",
+        "AKP": "29.1",
+        "CHP": "1.6"
+    },
+    {
+        "Province": "Bayburt",
+        "Date": "1/11/15",
+        "AKP": "72.9",
+        "CHP": "2.4"
+    },
+    {
+        "Province": "Bilecik",
+        "Date": "1/11/15",
+        "AKP": "46.6",
+        "CHP": "33.4"
+    },
+    {
+        "Province": "Bingöl",
+        "Date": "1/11/15",
+        "AKP": "64.5",
+        "CHP": "1.8"
+    },
+    {
+        "Province": "Bitlis",
+        "Date": "1/11/15",
+        "AKP": "44.2",
+        "CHP": "3.1"
+    },
+    {
+        "Province": "Bolu",
+        "Date": "1/11/15",
+        "AKP": "62.6",
+        "CHP": "21.4"
+    },
+    {
+        "Province": "Burdur",
+        "Date": "1/11/15",
+        "AKP": "50.8",
+        "CHP": "24.8"
+    },
+    {
+        "Province": "Bursa",
+        "Date": "1/11/15",
+        "AKP": "54.0",
+        "CHP": "26.4"
+    },
+    {
+        "Province": "Çanakkale",
+        "Date": "1/11/15",
+        "AKP": "40.2",
+        "CHP": "38.9"
+    },
+    {
+        "Province": "Çankırı",
+        "Date": "1/11/15",
+        "AKP": "68.8",
+        "CHP": "6.2"
+    },
+    {
+        "Province": "Çorum",
+        "Date": "1/11/15",
+        "AKP": "61.2",
+        "CHP": "21.9"
+    },
+    {
+        "Province": "Denizli",
+        "Date": "1/11/15",
+        "AKP": "45.8",
+        "CHP": "33.8"
+    },
+    {
+        "Province": "Diyarbakır",
+        "Date": "1/11/15",
+        "AKP": "22.3",
+        "CHP": "2.0"
+    },
+    {
+        "Province": "Düzce",
+        "Date": "1/11/15",
+        "AKP": "70.4",
+        "CHP": "16.4"
+    },
+    {
+        "Province": "Edirne",
+        "Date": "1/11/15",
+        "AKP": "27.8",
+        "CHP": "55.9"
+    },
+    {
+        "Province": "Elazığ",
+        "Date": "1/11/15",
+        "AKP": "66.5",
+        "CHP": "6.3"
+    },
+    {
+        "Province": "Erzincan",
+        "Date": "1/11/15",
+        "AKP": "56.7",
+        "CHP": "27.5"
+    },
+    {
+        "Province": "Erzurum",
+        "Date": "1/11/15",
+        "AKP": "67.8",
+        "CHP": "3.3"
+    },
+    {
+        "Province": "Eskişehir",
+        "Date": "1/11/15",
+        "AKP": "43.5",
+        "CHP": "38.1"
+    },
+    {
+        "Province": "Gaziantep",
+        "Date": "1/11/15",
+        "AKP": "61.4",
+        "CHP": "16.3"
+    },
+    {
+        "Province": "Giresun",
+        "Date": "1/11/15",
+        "AKP": "61.6",
+        "CHP": "19.9"
+    },
+    {
+        "Province": "Gümüşhane",
+        "Date": "1/11/15",
+        "AKP": "68.0",
+        "CHP": "5.1"
+    },
+    {
+        "Province": "Hakkari",
+        "Date": "1/11/15",
+        "AKP": "13.8",
+        "CHP": "1.6"
+    },
+    {
+        "Province": "Hatay",
+        "Date": "1/11/15",
+        "AKP": "43.5",
+        "CHP": "35.6"
+    },
+    {
+        "Province": "Iğdır",
+        "Date": "1/11/15",
+        "AKP": "31.6",
+        "CHP": "2.1"
+    },
+    {
+        "Province": "Isparta",
+        "Date": "1/11/15",
+        "AKP": "53.3",
+        "CHP": "21.2"
+    },
+    {
+        "Province": "İstanbul",
+        "Date": "1/11/15",
+        "AKP": "48.9",
+        "CHP": "30.1"
+    },
+    {
+        "Province": "İzmir",
+        "Date": "1/11/15",
+        "AKP": "31.7",
+        "CHP": "45.9"
+    },
+    {
+        "Province": "Kahramanmaraş",
+        "Date": "1/11/15",
+        "AKP": "71.4",
+        "CHP": "9.7"
+    },
+    {
+        "Province": "Karabük",
+        "Date": "1/11/15",
+        "AKP": "60.4",
+        "CHP": "15.3"
+    },
+    {
+        "Province": "Karaman",
+        "Date": "1/11/15",
+        "AKP": "64.4",
+        "CHP": "15.2"
+    },
+    {
+        "Province": "Kars",
+        "Date": "1/11/15",
+        "AKP": "36.2",
+        "CHP": "15.2"
+    },
+    {
+        "Province": "Kastamonu",
+        "Date": "1/11/15",
+        "AKP": "59.8",
+        "CHP": "17.0"
+    },
+    {
+        "Province": "Kayseri",
+        "Date": "1/11/15",
+        "AKP": "65.3",
+        "CHP": "12.4"
+    },
+    {
+        "Province": "Kırıkkale",
+        "Date": "1/11/15",
+        "AKP": "62.2",
+        "CHP": "13.7"
+    },
+    {
+        "Province": "Kırklareli",
+        "Date": "1/11/15",
+        "AKP": "28.4",
+        "CHP": "54.7"
+    },
+    {
+        "Province": "Kırşehir",
+        "Date": "1/11/15",
+        "AKP": "50.8",
+        "CHP": "17.9"
+    },
+    {
+        "Province": "Kilis",
+        "Date": "1/11/15",
+        "AKP": "65.3",
+        "CHP": "12.3"
+    },
+    {
+        "Province": "Kocaeli",
+        "Date": "1/11/15",
+        "AKP": "56.5",
+        "CHP": "23.2"
+    },
+    {
+        "Province": "Konya",
+        "Date": "1/11/15",
+        "AKP": "73.9",
+        "CHP": "9.4"
+    },
+    {
+        "Province": "Kütahya",
+        "Date": "1/11/15",
+        "AKP": "67.3",
+        "CHP": "12.5"
+    },
+    {
+        "Province": "Malatya",
+        "Date": "1/11/15",
+        "AKP": "67.4",
+        "CHP": "15.3"
+    },
+    {
+        "Province": "Manisa",
+        "Date": "1/11/15",
+        "AKP": "44.3",
+        "CHP": "29.4"
+    },
+    {
+        "Province": "Mardin",
+        "Date": "1/11/15",
+        "AKP": "29.3",
+        "CHP": "1.8"
+    },
+    {
+        "Province": "Mersin",
+        "Date": "1/11/15",
+        "AKP": "31.7",
+        "CHP": "30.1"
+    },
+    {
+        "Province": "Muğla",
+        "Date": "1/11/15",
+        "AKP": "30.6",
+        "CHP": "47.5"
+    },
+    {
+        "Province": "Muş",
+        "Date": "1/11/15",
+        "AKP": "34.5",
+        "CHP": "1.7"
+    },
+    {
+        "Province": "Nevşehir",
+        "Date": "1/11/15",
+        "AKP": "62.6",
+        "CHP": "15.2"
+    },
+    {
+        "Province": "Niğde",
+        "Date": "1/11/15",
+        "AKP": "57.1",
+        "CHP": "20.3"
+    },
+    {
+        "Province": "Ordu",
+        "Date": "1/11/15",
+        "AKP": "63.1",
+        "CHP": "24.3"
+    },
+    {
+        "Province": "Osmaniye",
+        "Date": "1/11/15",
+        "AKP": "46.7",
+        "CHP": "13.6"
+    },
+    {
+        "Province": "Rize",
+        "Date": "1/11/15",
+        "AKP": "75.4",
+        "CHP": "14.9"
+    },
+    {
+        "Province": "Sakarya",
+        "Date": "1/11/15",
+        "AKP": "67.2",
+        "CHP": "15.4"
+    },
+    {
+        "Province": "Samsun",
+        "Date": "1/11/15",
+        "AKP": "63.5",
+        "CHP": "20.3"
+    },
+    {
+        "Province": "Siirt",
+        "Date": "1/11/15",
+        "AKP": "37.2",
+        "CHP": "2.0"
+    },
+    {
+        "Province": "Sinop",
+        "Date": "1/11/15",
+        "AKP": "56.3",
+        "CHP": "29.4"
+    },
+    {
+        "Province": "Sivas",
+        "Date": "1/11/15",
+        "AKP": "68.2",
+        "CHP": "14.8"
+    },
+    {
+        "Province": "Şanlıurfa",
+        "Date": "1/11/15",
+        "AKP": "64.3",
+        "CHP": "3.1"
+    },
+    {
+        "Province": "Şırnak",
+        "Date": "1/11/15",
+        "AKP": "12.3",
+        "CHP": "1.5"
+    },
+    {
+        "Province": "Tekirdağ",
+        "Date": "1/11/15",
+        "AKP": "37.7",
+        "CHP": "44.9"
+    },
+    {
+        "Province": "Tokat",
+        "Date": "1/11/15",
+        "AKP": "59.5",
+        "CHP": "22.0"
+    },
+    {
+        "Province": "Trabzon",
+        "Date": "1/11/15",
+        "AKP": "66.4",
+        "CHP": "16.4"
+    },
+    {
+        "Province": "Tunceli",
+        "Date": "1/11/15",
+        "AKP": "12.9",
+        "CHP": "27.9"
+    },
+    {
+        "Province": "Uşak",
+        "Date": "1/11/15",
+        "AKP": "46.8",
+        "CHP": "30.0"
+    },
+    {
+        "Province": "Van",
+        "Date": "1/11/15",
+        "AKP": "30.7",
+        "CHP": "1.9"
+    },
+    {
+        "Province": "Yalova",
+        "Date": "1/11/15",
+        "AKP": "49.2",
+        "CHP": "31.3"
+    },
+    {
+        "Province": "Yozgat",
+        "Date": "1/11/15",
+        "AKP": "64.6",
+        "CHP": "7.5"
+    },
+    {
+        "Province": "Zonguldak",
+        "Date": "1/11/15",
+        "AKP": "49.5",
+        "CHP": "35.9"
+    },
+    {
+        "Province": "Türkiye",
+        "Date": "1/11/15",
+        "AKP": "49.5",
+        "CHP": "25.3"
+    },
+    {
+        "Province": "Adana",
+        "Date": "24/06/2018",
+        "AKP": "34.7",
+        "CHP": "26.1"
+    },
+    {
+        "Province": "Adıyaman",
+        "Date": "24/06/2018",
+        "AKP": "55.1",
+        "CHP": "12.1"
+    },
+    {
+        "Province": "Afyonkarahisar",
+        "Date": "24/06/2018",
+        "AKP": "55.4",
+        "CHP": "14.5"
+    },
+    {
+        "Province": "Ağrı",
+        "Date": "24/06/2018",
+        "AKP": "28.8",
+        "CHP": "2.9"
+    },
+    {
+        "Province": "Aksaray",
+        "Date": "24/06/2018",
+        "AKP": "56.2",
+        "CHP": "9.9"
+    },
+    {
+        "Province": "Amasya",
+        "Date": "24/06/2018",
+        "AKP": "47.0",
+        "CHP": "24.7"
+    },
+    {
+        "Province": "Ankara",
+        "Date": "24/06/2018",
+        "AKP": "40.4",
+        "CHP": "26.1"
+    },
+    {
+        "Province": "Antalya",
+        "Date": "24/06/2018",
+        "AKP": "35.0",
+        "CHP": "29.2"
+    },
+    {
+        "Province": "Ardahan",
+        "Date": "24/06/2018",
+        "AKP": "37.2",
+        "CHP": "25.9"
+    },
+    {
+        "Province": "Artvin",
+        "Date": "24/06/2018",
+        "AKP": "40.5",
+        "CHP": "32.0"
+    },
+    {
+        "Province": "Aydın",
+        "Date": "24/06/2018",
+        "AKP": "32.5",
+        "CHP": "34.0"
+    },
+    {
+        "Province": "Balıkesir",
+        "Date": "24/06/2018",
+        "AKP": "41.4",
+        "CHP": "30.4"
+    },
+    {
+        "Province": "Bartın",
+        "Date": "24/06/2018",
+        "AKP": "47.0",
+        "CHP": "25.5"
+    },
+    {
+        "Province": "Batman",
+        "Date": "24/06/2018",
+        "AKP": "24.9",
+        "CHP": "1.8"
+    },
+    {
+        "Province": "Bayburt",
+        "Date": "24/06/2018",
+        "AKP": "57.5",
+        "CHP": "4.3"
+    },
+    {
+        "Province": "Bilecik",
+        "Date": "24/06/2018",
+        "AKP": "43.3",
+        "CHP": "28.2"
+    },
+    {
+        "Province": "Bingöl",
+        "Date": "24/06/2018",
+        "AKP": "55.4",
+        "CHP": "2.3"
+    },
+    {
+        "Province": "Bitlis",
+        "Date": "24/06/2018",
+        "AKP": "44.8",
+        "CHP": "2.7"
+    },
+    {
+        "Province": "Bolu",
+        "Date": "24/06/2018",
+        "AKP": "52.1",
+        "CHP": "20.3"
+    },
+    {
+        "Province": "Burdur",
+        "Date": "24/06/2018",
+        "AKP": "43.2",
+        "CHP": "20.2"
+    },
+    {
+        "Province": "Bursa",
+        "Date": "24/06/2018",
+        "AKP": "46.2",
+        "CHP": "22.7"
+    },
+    {
+        "Province": "Çanakkale",
+        "Date": "24/06/2018",
+        "AKP": "37.4",
+        "CHP": "33.8"
+    },
+    {
+        "Province": "Çankırı",
+        "Date": "24/06/2018",
+        "AKP": "59.2",
+        "CHP": "6.7"
+    },
+    {
+        "Province": "Çorum",
+        "Date": "24/06/2018",
+        "AKP": "52.1",
+        "CHP": "20.3"
+    },
+    {
+        "Province": "Denizli",
+        "Date": "24/06/2018",
+        "AKP": "40.8",
+        "CHP": "28.1"
+    },
+    {
+        "Province": "Diyarbakır",
+        "Date": "24/06/2018",
+        "AKP": "21.5",
+        "CHP": "2.5"
+    },
+    {
+        "Province": "Düzce",
+        "Date": "24/06/2018",
+        "AKP": "56.1",
+        "CHP": "14.5"
+    },
+    {
+        "Province": "Edirne",
+        "Date": "24/06/2018",
+        "AKP": "28.6",
+        "CHP": "45.4"
+    },
+    {
+        "Province": "Elazığ",
+        "Date": "24/06/2018",
+        "AKP": "54.5",
+        "CHP": "10.7"
+    },
+    {
+        "Province": "Erzincan",
+        "Date": "24/06/2018",
+        "AKP": "44.8",
+        "CHP": "25.5"
+    },
+    {
+        "Province": "Erzurum",
+        "Date": "24/06/2018",
+        "AKP": "54.8",
+        "CHP": "4.4"
+    },
+    {
+        "Province": "Eskişehir",
+        "Date": "24/06/2018",
+        "AKP": "38.8",
+        "CHP": "32.3"
+    },
+    {
+        "Province": "Gaziantep",
+        "Date": "24/06/2018",
+        "AKP": "51.5",
+        "CHP": "15.1"
+    },
+    {
+        "Province": "Giresun",
+        "Date": "24/06/2018",
+        "AKP": "53.7",
+        "CHP": "17.8"
+    },
+    {
+        "Province": "Gümüşhane",
+        "Date": "24/06/2018",
+        "AKP": "56.9",
+        "CHP": "7.5"
+    },
+    {
+        "Province": "Hakkari",
+        "Date": "24/06/2018",
+        "AKP": "20.1",
+        "CHP": "3.5"
+    },
+    {
+        "Province": "Hatay",
+        "Date": "24/06/2018",
+        "AKP": "36.2",
+        "CHP": "30.6"
+    },
+    {
+        "Province": "Iğdır",
+        "Date": "24/06/2018",
+        "AKP": "20.7",
+        "CHP": "2.8"
+    },
+    {
+        "Province": "Isparta",
+        "Date": "24/06/2018",
+        "AKP": "47.8",
+        "CHP": "16.5"
+    },
+    {
+        "Province": "İstanbul",
+        "Date": "24/06/2018",
+        "AKP": "42.7",
+        "CHP": "26.5"
+    },
+    {
+        "Province": "İzmir",
+        "Date": "24/06/2018",
+        "AKP": "28.7",
+        "CHP": "41.3"
+    },
+    {
+        "Province": "Kahramanmaraş",
+        "Date": "24/06/2018",
+        "AKP": "58.5",
+        "CHP": "9.8"
+    },
+    {
+        "Province": "Karabük",
+        "Date": "24/06/2018",
+        "AKP": "53.8",
+        "CHP": "16.7"
+    },
+    {
+        "Province": "Karaman",
+        "Date": "24/06/2018",
+        "AKP": "53.5",
+        "CHP": "16.2"
+    },
+    {
+        "Province": "Kars",
+        "Date": "24/06/2018",
+        "AKP": "37.9",
+        "CHP": "14.3"
+    },
+    {
+        "Province": "Kastamonu",
+        "Date": "24/06/2018",
+        "AKP": "52.2",
+        "CHP": "15.6"
+    },
+    {
+        "Province": "Kayseri",
+        "Date": "24/06/2018",
+        "AKP": "50.6",
+        "CHP": "12.4"
+    },
+    {
+        "Province": "Kırıkkale",
+        "Date": "24/06/2018",
+        "AKP": "43.7",
+        "CHP": "15.3"
+    },
+    {
+        "Province": "Kırklareli",
+        "Date": "24/06/2018",
+        "AKP": "26.9",
+        "CHP": "47.5"
+    },
+    {
+        "Province": "Kırşehir",
+        "Date": "24/06/2018",
+        "AKP": "41.2",
+        "CHP": "25.6"
+    },
+    {
+        "Province": "Kilis",
+        "Date": "24/06/2018",
+        "AKP": "50.8",
+        "CHP": "14.6"
+    },
+    {
+        "Province": "Kocaeli",
+        "Date": "24/06/2018",
+        "AKP": "48.3",
+        "CHP": "20.1"
+    },
+    {
+        "Province": "Konya",
+        "Date": "24/06/2018",
+        "AKP": "59.4",
+        "CHP": "9.7"
+    },
+    {
+        "Province": "Kütahya",
+        "Date": "24/06/2018",
+        "AKP": "54.8",
+        "CHP": "12.7"
+    },
+    {
+        "Province": "Malatya",
+        "Date": "24/06/2018",
+        "AKP": "53.9",
+        "CHP": "16.8"
+    },
+    {
+        "Province": "Manisa",
+        "Date": "24/06/2018",
+        "AKP": "40.2",
+        "CHP": "26.3"
+    },
+    {
+        "Province": "Mardin",
+        "Date": "24/06/2018",
+        "AKP": "30.4",
+        "CHP": "3.3"
+    },
+    {
+        "Province": "Mersin",
+        "Date": "24/06/2018",
+        "AKP": "28.6",
+        "CHP": "26.8"
+    },
+    {
+        "Province": "Muğla",
+        "Date": "24/06/2018",
+        "AKP": "28.2",
+        "CHP": "40.9"
+    },
+    {
+        "Province": "Muş",
+        "Date": "24/06/2018",
+        "AKP": "32.4",
+        "CHP": "2.5"
+    },
+    {
+        "Province": "Nevşehir",
+        "Date": "24/06/2018",
+        "AKP": "53.1",
+        "CHP": "16.6"
+    },
+    {
+        "Province": "Niğde",
+        "Date": "24/06/2018",
+        "AKP": "43.8",
+        "CHP": "20.2"
+    },
+    {
+        "Province": "Ordu",
+        "Date": "24/06/2018",
+        "AKP": "48.8",
+        "CHP": "22.7"
+    },
+    {
+        "Province": "Osmaniye",
+        "Date": "24/06/2018",
+        "AKP": "36.3",
+        "CHP": "13.5"
+    },
+    {
+        "Province": "Rize",
+        "Date": "24/06/2018",
+        "AKP": "64.9",
+        "CHP": "13.0"
+    },
+    {
+        "Province": "Sakarya",
+        "Date": "24/06/2018",
+        "AKP": "58.2",
+        "CHP": "13.7"
+    },
+    {
+        "Province": "Samsun",
+        "Date": "24/06/2018",
+        "AKP": "52.0",
+        "CHP": "17.3"
+    },
+    {
+        "Province": "Siirt",
+        "Date": "24/06/2018",
+        "AKP": "39.0",
+        "CHP": "2.6"
+    },
+    {
+        "Province": "Sinop",
+        "Date": "24/06/2018",
+        "AKP": "55.3",
+        "CHP": "24.2"
+    },
+    {
+        "Province": "Sivas",
+        "Date": "24/06/2018",
+        "AKP": "54.6",
+        "CHP": "15.2"
+    },
+    {
+        "Province": "Şanlıurfa",
+        "Date": "24/06/2018",
+        "AKP": "52.7",
+        "CHP": "3.9"
+    },
+    {
+        "Province": "Şırnak",
+        "Date": "24/06/2018",
+        "AKP": "18.2",
+        "CHP": "2.7"
+    },
+    {
+        "Province": "Tekirdağ",
+        "Date": "24/06/2018",
+        "AKP": "34.7",
+        "CHP": "38.2"
+    },
+    {
+        "Province": "Tokat",
+        "Date": "24/06/2018",
+        "AKP": "49.9",
+        "CHP": "20.7"
+    },
+    {
+        "Province": "Trabzon",
+        "Date": "24/06/2018",
+        "AKP": "56.0",
+        "CHP": "15.1"
+    },
+    {
+        "Province": "Tunceli",
+        "Date": "24/06/2018",
+        "AKP": "14.7",
+        "CHP": "26.3"
+    },
+    {
+        "Province": "Uşak",
+        "Date": "24/06/2018",
+        "AKP": "43.5",
+        "CHP": "28.3"
+    },
+    {
+        "Province": "Van",
+        "Date": "24/06/2018",
+        "AKP": "31.8",
+        "CHP": "2.6"
+    },
+    {
+        "Province": "Yalova",
+        "Date": "24/06/2018",
+        "AKP": "44.1",
+        "CHP": "28.6"
+    },
+    {
+        "Province": "Yozgat",
+        "Date": "24/06/2018",
+        "AKP": "53.4",
+        "CHP": "11.6"
+    },
+    {
+        "Province": "Zonguldak",
+        "Date": "24/06/2018",
+        "AKP": "46.0",
+        "CHP": "30.8"
+    },
+    {
+        "Province": "Türkiye",
+        "Date": "24/06/2018",
+        "AKP": "42.56",
+        "CHP": "22.65"
+    }
+]
